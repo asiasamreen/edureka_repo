@@ -1,0 +1,12 @@
+this is the new file to check staged amd unstaged changes
+
+
+
+
+
+
+
+
+D
+D
+is third file to check staged and unr
